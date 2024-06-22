@@ -3,6 +3,43 @@ Scene understanding involves perceiving, analyzing, and interpreting a 3D dynami
 Key functionalities include detection, localization, recognition, and understanding, extending beyond visual features to meaningful physical world information. Scene understanding requires cognitive abilities like learning, adaptation, and strategy development to achieve robust and adaptable vision functionalities. It should anticipate events, adapt to new environments, predict future configurations, and communicate effectively with other systems. This domain intersects with robotics and multimedia document analysis, offering diverse application possibilities.
 This project explores advanced scene understanding techniques, aiming to enhance real-time interpretation and interaction within dynamic environments.
 
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+- Python 3.x
+- Git
+
+### Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-username/Scene-Understanding-Computer-Vision.git
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd Scene-Understanding-Computer-Vision
+    ```
+
+3. **Install the dependencies:**
+
+    ```bash
+    pip install opencv-python tensorflow keras numpy
+    ```
+
+4. **Start the project:**
+
+    ```bash
+    python detector.py
+    python run.py
+    ```
+
 ## DATA ANALYSIS
 Dataset
 Tensorflow is a collection of detection models pre-trained on the COCO 2017 dataset. These models can be useful for out-of-the-box inference. there are many categories already in those datasets.
