@@ -36,8 +36,8 @@ To get started with the project, follow these steps:
 4. **Start the project:**
 
     ```bash
-    python detector.py
-    python run.py
+    python Detector.py
+    python run_me.py
     ```
 
 ## DATA ANALYSIS
